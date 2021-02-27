@@ -1,0 +1,14 @@
+Stack-(FILO)
+1. Implementation (Array and Linked-List)
+2. Insertion
+3. Deletion
+4. Infix, Prefix and Postfix
+5. Expression Evaluation
+6. Balanced Paranthesis
+7. Next Greater Element and Nearest Greater
+8. Next Smaller Element and Nearest Smaller
+9. Stock Span Problem
+10. Max Area Histogram
+11. Max Area Rectangle in Matrix
+12. Rain Water Tapping
+13. Min Element/Max Element (with and without extra space)

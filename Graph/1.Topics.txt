@@ -1,0 +1,29 @@
+Graph
+
+Implementation
+Traversal: BFS and DFS
+Connectivity
+In/Out Degrees
+No. of. islands
+Topological Sort
+Disjoint Set
+Minimum Spanning Tree: Kruskal's
+Detect Cycle in Undirected Graph : Disjoint set and DFS
+Detect Cycle in Directed Graph : DFS
+Minimum Spanning Tree: Prim's
+Single Source Shortest Path: Dijkstra's
+Single Source Shortest Path: Bellman Ford's
+Strongly Connected Components
+    Kosaraju's
+    Tarzan's
+Articulate Points (using Tarzan's)
+Critical Edge (using Tarzan's)
+All Pairs Shortest Path : Flayod Warshal's
+
+Optional:
+
+Ford Fulkerson's for Max Flow
+All simple cycles: Jonhson's
+Hamiltanion Cycle
+Travelling salesman
+Water Supply Problem

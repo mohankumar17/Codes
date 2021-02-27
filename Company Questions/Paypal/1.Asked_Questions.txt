@@ -1,0 +1,7 @@
+1. Pattern Searching (Naive,KMP,Robin Karp and Z)
+2. Print concatenation if zigzag string
+3. Permutations of a string in sorted order
+4. Longest Palindromic subsequence (Macher's)
+5. Frequency of most frequent substring
+6. Subsets of an array
+7. Minimum Coins

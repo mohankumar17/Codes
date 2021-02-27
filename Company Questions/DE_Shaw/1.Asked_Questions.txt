@@ -1,0 +1,8 @@
+1.Infinity Supply of coins
+2.Longest Valid Parantheses
+3.Rotate matrix by 90 degrees
+4.Tries - Insertion
+5.BST - Count the elements in given range
+6.Knapsack Problem
+7.Spiral Pattern
+8.BST-Height of the tree

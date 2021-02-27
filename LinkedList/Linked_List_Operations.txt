@@ -1,0 +1,15 @@
+#singly Linked List
+#singly Circular Linked List
+#Doubly Linked List
+#Doubly Circular Linked List
+
+1. Implementation
+2. Traversal
+3. Insertion(beg,end,pos)
+4. Deletion(beg,end,pos,element)
+5. Reverse
+6. Sorting
+7. Find Middle
+8. Swap Nodes
+9. Remove Duplicates (sorted and unsorted)
+10. Palindrome List

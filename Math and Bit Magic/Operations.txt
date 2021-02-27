@@ -1,0 +1,32 @@
+*Math Operations
+
+Prime Number
+Palindrome Number
+Reverse Number
+Greatest Common Divisor
+Highest Common Factor
+Trailing zeros in factorial
+Digit sum
+Two sum
+Three sum
+Max 3 product
+
+Ugly number
+Next Permutation
+Partition in to three parts of equal sum
+Remove k-digits to make a smaller number
+
+*Bit Operations
+
+Binary to decimal
+Decimal to binary
+Addition without Operators
+Subtraction without Operators
+Reverse bits
+Rotate bits
+Trailing zeros in binary
+Set bits (one number and range of numbers)
+Divide without operators
+Minimum XOR in elements of array
+Swap Nibbles
+Longest Consecutive Ones

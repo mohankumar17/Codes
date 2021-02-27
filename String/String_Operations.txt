@@ -1,0 +1,11 @@
+String
+
+  Palindrome string
+  Longest Common Prefix
+  Min Appends for palindrome
+  Pattern Matching(Naive and KMP)
+  Longest Palindromic Subsequence(Manacher)
+  Length of Longest Palindromic Subsequence(LPS) using DP
+
+  String Zig-Zag
+  Count and Say

@@ -1,0 +1,17 @@
+Recursion
+
+Arthimetic Operations
+Factorial
+Nth Fibonacci
+No of ways to reach Steps
+Robot right down
+Delete middle element of stack
+Reverse stack
+Permutation
+Paranthesis Generator
+Combination
+Power Set(All subsets)
+Kth Permutation
+
+Tower of Hanoi
+Josephus Problem

@@ -1,0 +1,48 @@
+Dynamic Programming
+
+Nth Fibonacci number
+Ways to Cover a Distance(Stair Case)
+Total ways in a matrix
+0-1 Knapsack Problem
+Longest Common Subsequence
+Subset Sum Problem
+Min Coin change problem
+Min Edit Distance
+Longest Increasing Subsequence
+Ways to get total :Coin change problem(Infinity supply of coins)
+Optimal BST
+Matrix Chain Multiplication
+Rod Cutting
+Regular Expression Matching
+Egg Dropping Puzzle
+No. of BST Possible given n
+Maximum size of rectangle of All 1's
+Weighted Job Scheduling
+Minimum Jumps to reach End
+Minimum Cost Path
+Max sum rectangular submatrix
+Longest Palindromic Subsequence
+Word Break Problem
+Buy/Sell stock with K transactions to maximize profit
+Longest Bio-tonic Subsequence
+Numbers without consecutive 1's
+Max Sub Square matrix
+Max Sum Increasing Subsequence
+Max Sum Increasing Subsequence Non-Adjacent  (Max Stealing)
+Wildcard Matching
+String Interleaving
+Box Stacking
+Palindrome Partitioning
+Optimal Strategy for a Game
+
+Burst Balloon
+Max Sub-Square with Sides as X
+Sum Query in 2D
+Text Justification
+
+Minimum Partition
+Longest Path In Matrix
+Boolean Parenthesization Problem *
+Shortest Common Super sequence *
+Partition problem
+Maximal Product when Cutting Rope
